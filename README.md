@@ -13,7 +13,7 @@ I'm the CEO of Design Zone 42 Ltd. from Croatia, with over 15 years of experienc
 - **Version Control:** Git
 
 ## 🌟 Professional Highlights
-- Backend development (Python/Flask)
+- Backend development (Python/Django/Flask/PHP/Laravel/Wordpress)
 - AI explorer (especially in data processing pipelines for RAG applications)
 - Cross-functional and multinational team player
 - Remote work pro
