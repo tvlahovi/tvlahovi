@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Tomislav Vlahović!
 
-## 🚀 About Me
+## 🤖 About Me
 I'm the CEO of Design Zone 42 Ltd. from Croatia, with over 15 years of experience in the programming world. I specialize in backend development with Python, as well as cloud technologies. I'm always open to collaborating on exciting projects!
 
 ## 💻 Tech Stack
