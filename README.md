@@ -5,7 +5,7 @@ I'm the CEO of Design Zone 42 Ltd. from Croatia, with over 15 years of experienc
 
 ## 💻 Tech Stack
 - **Languages:** Python, PHP, JavaScript, .NET, SQL
-- **Frameworks:** Flask, Django, Vue.js, jQuery, htmx, alpine.js
+- **Frameworks:** Django,Flask, Vue.js, jQuery, htmx, alpine.js
 - **Cloud & DevOps:** Docker, Kubernetes
 - **Databases:** PostgreSQL, MySQL, Sybase Adaptive Server Anywhere
 - **OS:** Linux (CentOS, Debian, Ubuntu, Arch Linux)
