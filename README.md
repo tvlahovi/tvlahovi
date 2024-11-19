@@ -11,6 +11,7 @@ I'm the CEO of Design Zone 42 Ltd. from Croatia, with over 15 years of experienc
 - **OS:** Linux (CentOS, Debian, Ubuntu, Arch Linux)
 - **Web Servers:** Apache, Nginx
 - **Version Control:** Git
+- **Crypto:** Solana validator admin experience
 
 ## 🌟 Professional Highlights
 - Backend development (Python/Django/Flask/PHP/Laravel/Wordpress)
